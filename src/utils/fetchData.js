@@ -1,7 +1,7 @@
 export const exerciseOptions = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': process.env.REACT_APP_RAPID_API_KEY,
+		'X-RapidAPI-Key': '8a2b0f0437mshb358e7f772d1139p1c504djsn0dd0bcd3586f',
 		'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com',
 	},
 };
